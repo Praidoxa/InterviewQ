@@ -24,5 +24,10 @@ public class ListIterator<T> implements Iterator {
         return res;
     }
 
+    @Override
+    public void remove() {
+
+    }
+
 
 }

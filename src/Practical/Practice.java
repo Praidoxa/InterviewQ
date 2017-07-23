@@ -5,14 +5,11 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.sql.SQLException;
-import java.time.LocalDate;
-import java.time.LocalTime;
 
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.TreeSet;
 import java.util.Vector;
-import java.util.stream.Stream;
 
 public class Practice {
 

@@ -39,4 +39,9 @@ public class TreeIterator implements Iterator<Integer> {
         }
         return data;
     }
+
+    @Override
+    public void remove() {
+
+    }
 }
