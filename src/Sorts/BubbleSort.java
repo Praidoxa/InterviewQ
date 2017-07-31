@@ -1,4 +1,4 @@
-package BubbleSort;
+package Sorts;
 
 public class BubbleSort {
     static int[] arr = {14,2, 3, 1, 8, 5, 7, 9};
